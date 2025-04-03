@@ -1,0 +1,10 @@
+gradio>=3.0
+requests
+python-docx
+reportlab
+semanticscholar
+vosk
+pyaudio
+matplotlib
+pandas
+python-dotenv
